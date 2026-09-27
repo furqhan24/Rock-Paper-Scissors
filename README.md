@@ -2,6 +2,8 @@
 
 A browser-based Rock Paper Scissors game developed using HTML, CSS, and JavaScript. The application allows users to play against a computer opponent, tracks scores in real time, and provides instant visual feedback for game outcomes.
 
+### 🚀 [Live Demo](https://furqhan24.github.io/Rock-Paper-Scissors/) | 📂 [Source Code](https://github.com/furqhan24/Rock-Paper-Scissors)
+
 ## Features
 
 * Interactive user gameplay
